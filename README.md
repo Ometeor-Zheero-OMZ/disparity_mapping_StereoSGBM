@@ -10,3 +10,9 @@
 ## 生成した視差マッピング
 
 ![生成した視差マッピング](./out/disparity_map.jpg)
+
+## 使用したクレート及びライブラリ
+
+[opencv crates.io](https://crates.io/crates/opencv)
+[opencv docs](https://docs.rs/opencv/0.94.2/opencv/index.html)
+[OpenCV official page](https://opencv.org/)
