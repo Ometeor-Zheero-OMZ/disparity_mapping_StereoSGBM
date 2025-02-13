@@ -13,6 +13,14 @@
 
 ## 使用したクレート及びライブラリ
 
+### クレート
+
 [opencv crates.io](https://crates.io/crates/opencv)
+
+### ドキュメント
+
 [opencv docs](https://docs.rs/opencv/0.94.2/opencv/index.html)
+
+### 公式サイト
+
 [OpenCV official page](https://opencv.org/)
